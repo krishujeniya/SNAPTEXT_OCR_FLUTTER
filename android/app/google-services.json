@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "549266111975",
+    "project_id": "ai-lens-7d908",
+    "storage_bucket": "ai-lens-7d908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549266111975:android:4ba47bd15a3f0f21f21142",
+        "android_client_info": {
+          "package_name": "com.example.snaptext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549266111975-nv0lvf37q9a6sp12kbihqn5batth5mmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskKsnVrPfR_h3j4mLqnL78ZmicWVZ1F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549266111975-nv0lvf37q9a6sp12kbihqn5batth5mmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549266111975-duvlaav2rc1l2kcq7q68k7nhsfkb0lth.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.snaptext"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
