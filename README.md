@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/krishujeniya/SNAPTEXT_OCR_FLUTTER">
-    <img src="assets/logo.png" alt="Logo" width="200px">
+    <img src="assets/Screenshot from 2024-06-17 11-33-12.png" alt="Logo" width="200px">
   </a>
 
   <h3 align="center">SNAPTEXT_OCR_FLUTTER</h3>
